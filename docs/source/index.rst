@@ -11,12 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-:mod:`sky` -- Main package
+:py:mod:`sky` -- Main package
 **************************
 
 .. automodule:: sky
 
-:mod:`sky.compute` -- Amazon EC2 Services
+:py:mod:`sky.compute` -- Amazon EC2 Services
 -----------------------------------------
 
 .. automodule:: sky.compute
